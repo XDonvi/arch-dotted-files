@@ -6,7 +6,7 @@
 	"last_version": 4126,
 	"last_window_id": 17,
 	"log_indexing": false,
-	"next_update_check": 1654876571,
+	"next_update_check": 1657209526,
 	"settings":
 	{
 		"new_window_full_screen": false,
@@ -254,12 +254,11 @@
 			"buffers":
 			[
 				{
-					"contents": "poweorff\nq",
+					"contents": "",
 					"settings":
 					{
-						"buffer_size": 10,
-						"line_ending": "Unix",
-						"name": "poweorff"
+						"buffer_size": 0,
+						"line_ending": "Unix"
 					},
 					"undo_stack":
 					[
@@ -271,7 +270,7 @@
 								"characters": "poweorff"
 							},
 							"CAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAIAAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
 						],
 						[
 							2,
@@ -281,7 +280,7 @@
 								"characters": "\n"
 							},
 							"AQAAAAgAAAAAAAAACQAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAPC/"
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAIAAAAAAAAAAgAAAAAAAAAAAAAAAAA8L8"
 						],
 						[
 							3,
@@ -291,7 +290,69 @@
 								"characters": "q"
 							},
 							"AQAAAAkAAAAAAAAACgAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAACQAAAAAAAAAJAAAAAAAAAAAAAAAAAPC/"
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAJAAAAAAAAAAkAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							1,
+							10,
+							"left_delete",
+							null,
+							"CgAAAAkAAAAAAAAACQAAAAAAAAABAAAAcQgAAAAAAAAACAAAAAAAAAABAAAACgcAAAAAAAAABwAAAAAAAAABAAAAZgYAAAAAAAAABgAAAAAAAAABAAAAZgUAAAAAAAAABQAAAAAAAAABAAAAcgQAAAAAAAAABAAAAAAAAAABAAAAbwMAAAAAAAAAAwAAAAAAAAABAAAAZQIAAAAAAAAAAgAAAAAAAAABAAAAdwEAAAAAAAAAAQAAAAAAAAABAAAAbwAAAAAAAAAAAAAAAAAAAAABAAAAcA",
+							"AQAAAAAAAAABAAAACgAAAAAAAAAKAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							2,
+							1,
+							"insert",
+							{
+								"characters": "alc"
+							},
+							"AwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							3,
+							2,
+							"left_delete",
+							null,
+							"AgAAAAIAAAAAAAAAAgAAAAAAAAABAAAAYwEAAAAAAAAAAQAAAAAAAAABAAAAbA",
+							"AQAAAAAAAAABAAAAAwAAAAAAAAADAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							4,
+							1,
+							"insert",
+							{
+								"characters": "cla"
+							},
+							"AwAAAAEAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAAQAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							5,
+							2,
+							"left_delete",
+							null,
+							"AgAAAAMAAAAAAAAAAwAAAAAAAAABAAAAYQIAAAAAAAAAAgAAAAAAAAABAAAAbA",
+							"AQAAAAAAAAABAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							6,
+							1,
+							"insert",
+							{
+								"characters": "a"
+							},
+							"AQAAAAIAAAAAAAAAAwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							7,
+							3,
+							"left_delete",
+							null,
+							"AwAAAAIAAAAAAAAAAgAAAAAAAAABAAAAYQEAAAAAAAAAAQAAAAAAAAABAAAAYwAAAAAAAAAAAAAAAAAAAAABAAAAYQ",
+							"AQAAAAAAAAABAAAAAwAAAAAAAAADAAAAAAAAAAAAAAAAAPC/"
 						]
 					]
 				}
@@ -456,20 +517,20 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 10,
+								"buffer_size": 0,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										10,
-										10
+										0,
+										0
 									]
 								],
 								"settings":
 								{
-									"auto_name": "poweorff",
+									"auto_name": "",
 									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
@@ -519,7 +580,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,0,0,0,802,39,1591,891,1600,900,0",
+			"position": "0,0,0,0,0,9,39,1591,891,1600,900,0",
 			"project": "",
 			"replace":
 			{

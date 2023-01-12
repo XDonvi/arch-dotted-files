@@ -63,7 +63,8 @@ font-2 = siji:pixelsize=10;1
 
 modules-left = i3
 modules-center = pacman-updates
-modules-right = filesystem xbacklight alsa pulseaudio xkeyboard memory cpu wlan eth battery temperature date powermenu
+modules-right = filesystem xbacklight alsa pulseaudio xkeyboard memory cpu wlan eth battery temperature date
+;removed powermenu
 
 ;separator = |
 
