@@ -1,7 +1,7 @@
 # arch_dotted_files
 My custom config files - Arch Linux build
 
-Kernel used: 
+Kernels i use: 
   - linux
   - linux-lts
 
